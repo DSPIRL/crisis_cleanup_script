@@ -1,0 +1,11 @@
+# Folders
+bin
+include
+lib
+lib64
+.git
+
+# Files
+*.csv
+pyvenv.cfg
+.DS_Store
